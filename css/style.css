@@ -23,3 +23,16 @@
     left: 15%;
     font-size: 30px;
 }
+
+.wood {
+    background-image: url("../img/betterwood.jpg");
+    color: white;
+}
+
+.wood h1,
+.wood h2 {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2px;
+}
